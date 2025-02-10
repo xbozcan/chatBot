@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "EVgU5KIq8H0VDbdM/EiRx2R8F3Wvm5iiksUz+F7OjLw=",
+  "Source": "EchoBot",
+  "BasePath": "_content/EchoBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EchoBot\\wwwroot",
+      "Source": "EchoBot",
+      "ContentRoot": "C:\\Users\\berat\\Desktop\\chatbot\\denemeChatBot\\wwwroot\\",
+      "BasePath": "_content/EchoBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\berat\\Desktop\\chatbot\\denemeChatBot\\wwwroot\\default.html",
+      "SourceId": "EchoBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berat\\Desktop\\chatbot\\denemeChatBot\\wwwroot\\",
+      "BasePath": "_content/EchoBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}
